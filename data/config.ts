@@ -72,10 +72,6 @@ const config: Config = {
       title: "Groupe Roulibre - Arrive bientôt",
       url: "#",
     },
-    {
-      title: "QCM_Recherche - Partagez ! Il nous faut 1000 réponses (club de sport, famille, travail... tout peut nous aider !)",
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSffIv34_vv6HQEX-VABY2rJN-x3ea8KndLvMd6-_udI5aSoJg/viewform?pli=1",
-    },
   ],
 
   // 🌐 Icônes réseaux sociaux (footer)
